@@ -3,12 +3,38 @@
     <title>Nika Grigorian</title>
     <link href="https://nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://nikagrigorian.com" />
-    <updated>2022-06-19T15:55:35+02:00</updated>
+    <updated>2022-06-19T16:14:45+02:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
     <id>https://nikagrigorian.com</id>
 
+    <entry>
+        <title>Sensing the city - sense of the city</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://nikagrigorian.com/sensing-the-city-sense-of-the-city.html"/>
+        <id>https://nikagrigorian.com/sensing-the-city-sense-of-the-city.html</id>
+            <category term="exhibition"/>
+
+        <updated>2022-06-19T16:14:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikagrigorian.com/media/posts/3/final_1_A2.pdf" alt="" />
+                    Has every city got its own pace? What do we hear, see,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikagrigorian.com/media/posts/3/final_1_A2.pdf" alt="" />
+                <p><span style="font-weight: 400;">Has every city got its own pace?  What do we hear, see, and feel when we walk out the door into the city-scape? Is it too loud, too fast, too trendy, too narrow, too dirty, too crowded? How do we manage not to lose track?</span></p>
+<p><span style="font-weight: 400;">The city is constantly changing. Political decisions and economic interests influence these changes. Often it leads to greater and greater gentrification and class division. To fit the new order, we choose to live as far away from the ground as possible.</span><span style="font-weight: 400;"> Organic life has given way to unsustainable human comfort</span><span style="font-weight: 400;">.</span><span style="font-weight: 400;"> What do we, as residents of cities, feel about its changes and what role does each one of us play in it? Is there still enough space for participation or are we steadily heading towards dead ends? </span></p>
+<p><span style="font-weight: 400;">The exhibition project </span><i><span style="font-weight: 400;">sensing the city - sense of the city</span></i><span style="font-weight: 400;"> explores individual sensations in urban spaces. We gather stories, perspectives and characters that reflect on the currents and changes taking place in the cities of Berlin and Lisbon. In this way we examine these two cities from personal perspectives, to compare different narratives and to address individual experiences. </span></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title> A Manifesto from the community of Kokvitskaya Gora.</title>
         <author>
@@ -18,7 +44,7 @@
         <id>https://nikagrigorian.com/kokvitskaya-gora-the-process-of-standing-for-community-rights.html</id>
             <category term="book"/>
 
-        <updated>2022-06-19T15:55:35+02:00</updated>
+        <updated>2022-06-19T16:02:43+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/2/30.JPG" alt="" />
@@ -56,8 +82,11 @@
 <figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/image-20-07-21-10-15.jpg" data-size="4032x3024"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/image-20-07-21-10-15-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
 <h1> Manifesto</h1>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/manifest-no-audio-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/manifest-no-audio-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/31.JPG" data-size="5736x3576"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/31-thumbnail.JPG" alt="" width="768" height="479"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/32.JPG" data-size="5648x3952"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/32-thumbnail.JPG" alt="" width="768" height="537"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/6.JPG" data-size="6016x4000"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/6-thumbnail.JPG" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/10.JPG" data-size="6016x4000"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/10-thumbnail.JPG" alt="" width="768" height="511"></a></figure>
 </div></div>
 <p> </p>
 </div>
