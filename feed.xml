@@ -3,7 +3,7 @@
     <title>Nika Grigorian</title>
     <link href="https://nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://nikagrigorian.com" />
-    <updated>2022-06-19T15:32:00+02:00</updated>
+    <updated>2022-06-19T15:42:10+02:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
@@ -74,7 +74,7 @@
         <id>https://nikagrigorian.com/this-is-my-new-post.html</id>
             <category term="research"/>
 
-        <updated>2022-06-19T15:32:00+02:00</updated>
+        <updated>2022-06-19T15:42:10+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/1/2-2.jpg" alt="" />
@@ -89,14 +89,13 @@
 <div class="section">
 <div class="layoutArea">
 <div class="column">
-<p>My grandmother was born in one of the community's villages. I know many people here personally. In recent years I have observed that the population of Kokvitskaya Gora has decreased.My methodologies are based on interviews I conducted with local people during the field study in September 2020.<figure class="post__image"><img loading="lazy"  src="https://nikagrigorian.com/media/posts/1/2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nikagrigorian.com/media/posts/1/responsive/2-xs.jpg 300w ,https://nikagrigorian.com/media/posts/1/responsive/2-sm.jpg 480w ,https://nikagrigorian.com/media/posts/1/responsive/2-md.jpg 768w ,https://nikagrigorian.com/media/posts/1/responsive/2-lg.jpg 1024w"  alt="" width="15644" height="11733"></figure>
+<p>My grandmother was born in one of the community's villages. I know many people here personally. In recent years I have observed that the population of Kokvitskaya Gora has decreased.My methodologies are based on interviews I conducted with local people during the field study in September 2020.</p>
 </div>
 </div>
 </div>
 </div>
 <p>Here's my photo gallery</p>
-<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/1/gallery/2.jpg" data-size="15644x11733"><img loading="lazy" src="https://nikagrigorian.com/media/posts/1/gallery/2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/1/gallery/IMG_20200906_135432.jpg" data-size="4224x5632"><img loading="lazy" src="https://nikagrigorian.com/media/posts/1/gallery/IMG_20200906_135432-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
 <figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/1/gallery/IMG_20200719_184108.jpg" data-size="5632x4224"><img loading="lazy" src="https://nikagrigorian.com/media/posts/1/gallery/IMG_20200719_184108-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
