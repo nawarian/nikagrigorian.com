@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Nika Grigorian</title>
+    <link href="https://nikagrigorian.com/feed.xml" rel="self" />
+    <link href="https://nikagrigorian.com" />
+    <updated>2022-06-14T00:40:45+02:00</updated>
+    <author>
+        <name>Nika Grigorian</name>
+    </author>
+    <id>https://nikagrigorian.com</id>
+
+    <entry>
+        <title>Kokvitskaya Gora</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://nikagrigorian.com/this-is-my-new-post.html"/>
+        <id>https://nikagrigorian.com/this-is-my-new-post.html</id>
+            <category term="test"/>
+
+        <updated>2022-06-14T00:40:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikagrigorian.com/media/posts/1/Screenshot-2022-06-06-at-22.39.14.png" alt="" />
+                    This is just a test post. I can write a paragraph here;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikagrigorian.com/media/posts/1/Screenshot-2022-06-06-at-22.39.14.png" alt="" />
+                <p>This is just a test post.</p>
+<h2>This is a subheading 2</h2>
+<p>I can write a paragraph here;</p>
+<p class="msg msg--info">Info box, with beautiful blue background.</p>
+<p>Here's my photo gallery</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-06-at-22.39.14.png" data-size="1972x830"><img loading="lazy" src="https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-06-at-22.39.14-thumbnail.png" alt="" width="768" height="323"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-06-at-22.56.45.png" data-size="1872x528"><img loading="lazy" src="https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-06-at-22.56.45-thumbnail.png" alt="" width="768" height="217"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-06-at-23.01.21.png" data-size="1864x626"><img loading="lazy" src="https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-06-at-23.01.21-thumbnail.png" alt="" width="768" height="258"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-07-at-13.16.42.png" data-size="1470x576"><img loading="lazy" src="https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-07-at-13.16.42-thumbnail.png" alt="" width="768" height="301"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

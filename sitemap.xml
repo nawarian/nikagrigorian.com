@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://nikagrigorian.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://nikagrigorian.com/</loc>
+</url>
+<url>
+<loc>https://nikagrigorian.com/this-is-my-new-post.html</loc>
+<lastmod>2022-06-14T00:40:45+02:00</lastmod>
+<image:image>
+<image:loc>https://nikagrigorian.com/media/posts/1/Screenshot-2022-06-06-at-22.39.14.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-06-at-22.39.14-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-06-at-22.56.45-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-06-at-23.01.21-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nikagrigorian.com/media/posts/1/gallery/Screenshot-2022-06-07-at-13.16.42-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
