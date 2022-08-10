@@ -3,12 +3,88 @@
     <title>Nika Grigorian</title>
     <link href="https://nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://nikagrigorian.com" />
-    <updated>2022-07-02T16:00:39+02:00</updated>
+    <updated>2022-08-09T09:50:42+02:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
     <id>https://nikagrigorian.com</id>
 
+    <entry>
+        <title>eigenart</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://nikagrigorian.com/eigenart.html"/>
+        <id>https://nikagrigorian.com/eigenart.html</id>
+
+        <updated>2022-08-09T09:50:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                    2020 - 2021 / Group project / Development of the art magazine&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="page" title="Page 3">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>2020 - 2021 / Group project / Development of the art magazine</p>
+<div class="page" title="Page 3">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>The projekt was focused on the digiralisation of the University of the Arts' student magazine "eigenart". With this, Grigorian created a community platform to open up artistic discussions and take them beyond the academic framework. The new format allowed, among other things, the presentation of artistic media such as video, audio and media art. Today, as part of the UdK, the magazine continues to develop both digitally and in print. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title> Rundgang Preview</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://nikagrigorian.com/rundgang-preview.html"/>
+        <id>https://nikagrigorian.com/rundgang-preview.html</id>
+
+        <updated>2022-08-09T09:38:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                    2021 / Group project / Exhibition In a team with my university&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="page" title="Page 2">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 2">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>2021 / Group project / Exhibition</p>
+</div>
+</div>
+</div>
+</div>
+<p>In a team with my university colleagues we organised an exhibition “Rundgang Preview” in Haus der Statistik.</p>
+<p>The exhibition “Rundgang Preview” in Haus der Statistik was dedicated to the final works of our Master's programme “Art in Context”. It gave an impression of the range of the institute's artistic approaches, contemporary artistic issues within and outside the academy.</p>
+<p>As part of the exhibitio a digital archive was created: https://preview.kunstimkontext.net/</p>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Zu Community basierter Kunst </title>
         <author>
