@@ -3,7 +3,7 @@
     <title>Nika Grigorian</title>
     <link href="https://nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://nikagrigorian.com" />
-    <updated>2022-08-09T09:50:42+02:00</updated>
+    <updated>2022-08-10T09:53:20+02:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://nikagrigorian.com/eigenart.html"/>
         <id>https://nikagrigorian.com/eigenart.html</id>
 
-        <updated>2022-08-09T09:50:42+02:00</updated>
+        <updated>2022-08-10T09:53:20+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://nikagrigorian.com/media/posts/7/Screenshot-2022-08-10-at-09.43.39.png" alt="" />
                     2020 - 2021 / Group project / Development of the art magazine&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://nikagrigorian.com/media/posts/7/Screenshot-2022-08-10-at-09.43.39.png" alt="" />
                 <div class="page" title="Page 3">
 <div class="section">
 <div class="layoutArea">
@@ -35,6 +37,11 @@
 <div class="layoutArea">
 <div class="column">
 <p>The projekt was focused on the digiralisation of the University of the Arts' student magazine "eigenart". With this, Grigorian created a community platform to open up artistic discussions and take them beyond the academic framework. The new format allowed, among other things, the presentation of artistic media such as video, audio and media art. Today, as part of the UdK, the magazine continues to develop both digitally and in print. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/7/gallery/Screenshot-2022-08-10-at-09.43.45.png" data-size="836x506"><img loading="lazy" src="https://nikagrigorian.com/media/posts/7/gallery/Screenshot-2022-08-10-at-09.43.45-thumbnail.png" alt="" width="768" height="465"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/7/gallery/Screenshot-2022-08-10-at-09.43.52.png" data-size="412x714"><img loading="lazy" src="https://nikagrigorian.com/media/posts/7/gallery/Screenshot-2022-08-10-at-09.43.52-thumbnail.png" alt="" width="412" height="714"></a></figure>
+</div></div>
+<p> </p>
 </div>
 </div>
 </div>
@@ -54,14 +61,16 @@
         <link href="https://nikagrigorian.com/rundgang-preview.html"/>
         <id>https://nikagrigorian.com/rundgang-preview.html</id>
 
-        <updated>2022-08-09T09:38:35+02:00</updated>
+        <updated>2022-08-10T09:50:27+02:00</updated>
             <summary>
                 <![CDATA[
-                    2021 / Group project / Exhibition In a team with my university&hellip;
+                        <img src="https://nikagrigorian.com/media/posts/6/Screenshot-2022-08-10-at-09.42.50-2.png" alt="" />
+                    2021 / Group project / Exhibition The exhibition “Rundgang Preview” in Haus&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://nikagrigorian.com/media/posts/6/Screenshot-2022-08-10-at-09.42.50-2.png" alt="" />
                 <div class="page" title="Page 2">
 <div class="section">
 <div class="layoutArea">
@@ -71,13 +80,17 @@
 <div class="layoutArea">
 <div class="column">
 <p>2021 / Group project / Exhibition</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/6/gallery/Screenshot-2022-08-10-at-09.42.50.png" data-size="972x648"><img loading="lazy" src="https://nikagrigorian.com/media/posts/6/gallery/Screenshot-2022-08-10-at-09.42.50-thumbnail.png" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/6/gallery/Screenshot-2022-08-10-at-09.42.57.png" data-size="786x526"><img loading="lazy" src="https://nikagrigorian.com/media/posts/6/gallery/Screenshot-2022-08-10-at-09.42.57-thumbnail.png" alt="" width="768" height="514"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/6/gallery/Screenshot-2022-08-10-at-09.43.08.png" data-size="690x462"><img loading="lazy" src="https://nikagrigorian.com/media/posts/6/gallery/Screenshot-2022-08-10-at-09.43.08-thumbnail.png" alt="" width="690" height="462"></a></figure>
+</div></div>
 </div>
 </div>
 </div>
 </div>
-<p>In a team with my university colleagues we organised an exhibition “Rundgang Preview” in Haus der Statistik.</p>
 <p>The exhibition “Rundgang Preview” in Haus der Statistik was dedicated to the final works of our Master's programme “Art in Context”. It gave an impression of the range of the institute's artistic approaches, contemporary artistic issues within and outside the academy.</p>
-<p>As part of the exhibitio a digital archive was created: https://preview.kunstimkontext.net/</p>
+<p>As part of the exhibition a digital archive was created: https://preview.kunstimkontext.net/</p>
 </div>
 </div>
 </div>
