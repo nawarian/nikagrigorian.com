@@ -3,7 +3,7 @@
     <title>Nika Grigorian</title>
     <link href="https://nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://nikagrigorian.com" />
-    <updated>2023-05-07T16:45:33+02:00</updated>
+    <updated>2023-05-07T16:46:46+02:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://nikagrigorian.com/kartofel.html"/>
         <id>https://nikagrigorian.com/kartofel.html</id>
+            <category term="research"/>
+            <category term="book"/>
 
-        <updated>2023-05-07T16:45:33+02:00</updated>
+        <updated>2023-05-07T16:46:46+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/11/featured-image.jpg" alt="" />
