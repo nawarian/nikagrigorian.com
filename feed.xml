@@ -3,12 +3,45 @@
     <title>Nika Grigorian</title>
     <link href="https://nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://nikagrigorian.com" />
-    <updated>2022-09-12T19:57:00+02:00</updated>
+    <updated>2023-05-07T16:38:33+02:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
     <id>https://nikagrigorian.com</id>
 
+    <entry>
+        <title>potato</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://nikagrigorian.com/kartofel.html"/>
+        <id>https://nikagrigorian.com/kartofel.html</id>
+
+        <updated>2023-05-07T16:38:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikagrigorian.com/media/posts/11/1-2.jpg" alt="" />
+                    In the villages, season after season, the community grows potatoes, repeating and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikagrigorian.com/media/posts/11/1-2.jpg" alt="" />
+                <p>In the villages, season after season, the community grows potatoes, repeating and maintaining cultivation processes. The residents harvest their potatoes, eat them together and share them with their neighbours.</p>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/11/gallery/1.jpg" data-size="1080x1080"><img loading="lazy" src="https://nikagrigorian.com/media/posts/11/gallery/1-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/11/gallery/2.jpg" data-size="1080x1080"><img loading="lazy" src="https://nikagrigorian.com/media/posts/11/gallery/2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/11/gallery/3.jpg" data-size="1080x1080"><img loading="lazy" src="https://nikagrigorian.com/media/posts/11/gallery/3-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/11/gallery/4.jpg" data-size="1080x1080"><img loading="lazy" src="https://nikagrigorian.com/media/posts/11/gallery/4-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/11/gallery/5.jpg" data-size="1080x1080"><img loading="lazy" src="https://nikagrigorian.com/media/posts/11/gallery/5-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/11/gallery/6.jpg" data-size="1080x1080"><img loading="lazy" src="https://nikagrigorian.com/media/posts/11/gallery/6-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/11/gallery/7.jpg" data-size="1080x1080"><img loading="lazy" src="https://nikagrigorian.com/media/posts/11/gallery/7-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+<p><br>The art publication is the result of observing potato harvesting practices in a Komi village. The artist and my mother, Anzhelika Van-In, made graphic sketches by talking with neighbours. Based on their stories, we has compiled together a series of memories and impressions of villagers about the potato harvesting process. <br><br>This zine was developed as part of a series of field studies on women's cultivation practices in the village environment, becoming a collaborative project between mother and daughter. The zine consists of five interrelated groups: collection, community, storage, preparation.<br><br>Artists: Anzhelika Van-In <br>Publishers: Nika Grigorian, Nickolas Daniel da Silva </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Russian Avant-Garde and the rural spaces </title>
         <author>
@@ -289,7 +322,7 @@
             <category term="project"/>
             <category term="exhibition"/>
 
-        <updated>2022-09-11T20:35:16+02:00</updated>
+        <updated>2023-02-15T19:51:43+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/3/3BA5C956-DBB9-4555-94B3-FE15280F5027_1_201_a.jpeg" alt="" />
@@ -300,7 +333,7 @@
             <![CDATA[
                     <img src="https://nikagrigorian.com/media/posts/3/3BA5C956-DBB9-4555-94B3-FE15280F5027_1_201_a.jpeg" alt="" />
                 <p><span style="font-weight: 400;">The exhibition project </span><i><span style="font-weight: 400;">sensing the city - sense of the city</span></i><span style="font-weight: 400;"> aims to explore individual sensations in urban spaces. Taking place in </span><strong>Berlin and Lisbon</strong><span style="font-weight: 400;"> simultaneously, this cross-disciplinary platform for urban art hosted works in diverse shapes and different media and was accompanied by a broad range of workshops and other participatory formats.</span></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
 <figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/3/gallery/_3251634.JPG" data-size="4032x3024"><img loading="lazy" src="https://nikagrigorian.com/media/posts/3/gallery/_3251634-thumbnail.JPG" alt="" width="768" height="576"></a>
 <figcaption>Zwitschermaschine</figcaption>
 </figure>
