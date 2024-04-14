@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Nika Grigorian</title>
     <link href="https://nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://nikagrigorian.com" />
@@ -16,9 +16,10 @@
         </author>
         <link href="https://nikagrigorian.com/co-cultivating-experimentations.html"/>
         <id>https://nikagrigorian.com/co-cultivating-experimentations.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/12/yt8xcf12kqa2eq3c_1024.jpg" medium="image" />
             <category term="text"/>
 
-        <updated>2024-02-15T18:20:10+01:00</updated>
+        <updated>2024-02-14T15:36:41+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/12/yt8xcf12kqa2eq3c_1024.jpg" alt="" />
@@ -27,7 +28,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikagrigorian.com/media/posts/12/yt8xcf12kqa2eq3c_1024.jpg" alt="" />
+                    <p><img src="https://nikagrigorian.com/media/posts/12/yt8xcf12kqa2eq3c_1024.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="page" title="Page 48">
 <div class="layoutArea">
 <div class="column">
@@ -65,11 +66,12 @@
         </author>
         <link href="https://nikagrigorian.com/kartofel.html"/>
         <id>https://nikagrigorian.com/kartofel.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/11/featured-image.jpg" medium="image" />
             <category term="research"/>
             <category term="project"/>
             <category term="book"/>
 
-        <updated>2023-05-09T09:42:15+02:00</updated>
+        <updated>2023-01-15T18:14:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/11/featured-image.jpg" alt="" />
@@ -78,7 +80,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikagrigorian.com/media/posts/11/featured-image.jpg" alt="" />
+                    <p><img src="https://nikagrigorian.com/media/posts/11/featured-image.jpg" class="type:primaryImage" alt="" /></p>
                 <p><em>2023 / women's cultivation practice / zine <br></em></p>
 <p>In the villages, the community grows potatoes season after season, repeating and maintaining the cultivation processes. The residents harvest it, eat together and share it with their neighbours.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
@@ -101,6 +103,7 @@
         </author>
         <link href="https://nikagrigorian.com/test-blog-post.html"/>
         <id>https://nikagrigorian.com/test-blog-post.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/8/goncharova.jpeg" medium="image" />
             <category term="text"/>
 
         <updated>2022-09-12T19:57:00+02:00</updated>
@@ -112,7 +115,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikagrigorian.com/media/posts/8/goncharova.jpeg" alt="" />
+                    <p><img src="https://nikagrigorian.com/media/posts/8/goncharova.jpeg" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://www.frieze.com/article/countryside-future-art-world">In his article for Freeze</a>, writer Tom Jeffreys argues that today’s art world is increasingly turning its attention to rural spaces. He cites examples of art projects such as the <a href="http://www.myvillages.org/index.php">Myvillages collective</a>, <a href="https://www.grizedale.org/">Grizedale Arts</a> and architect Rem Koolhaas with his exhibition <a href="https://www.guggenheim.org/exhibition/countryside">“Countryside: The Future”</a> which opened at the Solomon R. Guggenheim Museum in New York in February 2020 to support his thesis.</p>
 <p>Tom Jeffreys believes the village can be an art space in the future. The idea seems very real to me, especially after last year, when all the urban exhibition spaces and the museum were closed. And maybe this could be one of the impulses to socialize art and take it beyond the elite viewer. </p>
 <p>In Russian Avant-Garde Art, the theme of the village began to be actively raised by artists in the late 19th century, the common people became a symbol of the Russian spirit and the problem of the rural spaces was increasingly discussed among artists. There are several reasons for this. Under <a href="https://en.wikipedia.org/wiki/Peter_the_Great">Peter the Great </a>(18th century) there was a dramatic westernisation of the elite. The nobility tried to emulate European culture, and it was customary for families to speak French. This created a huge gap between the elite and the common people, who continued to live the old ways and had no access to education and culture. </p>
@@ -169,9 +172,10 @@
         </author>
         <link href="https://nikagrigorian.com/was-die-kunst-zum-klimawandel-zu-sagen-hat.html"/>
         <id>https://nikagrigorian.com/was-die-kunst-zum-klimawandel-zu-sagen-hat.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/9/UdKForFuture_sh-0097-2048x1360.jpeg" medium="image" />
             <category term="text"/>
 
-        <updated>2022-09-11T20:20:44+02:00</updated>
+        <updated>2022-09-11T20:19:55+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/9/UdKForFuture_sh-0097-2048x1360.jpeg" alt="" />
@@ -180,7 +184,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikagrigorian.com/media/posts/9/UdKForFuture_sh-0097-2048x1360.jpeg" alt="" />
+                    <p><img src="https://nikagrigorian.com/media/posts/9/UdKForFuture_sh-0097-2048x1360.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Keine bedeutende Bewegung in der Kunst erscheint unabhängig von der aktuellen sozialen und historischen Situation, meint Edward Lucie-Smith in der Einleitung zum Buch von John K.Grande im Buch <a href="http://gl.%20john%20k.%20grande%2C%20art%20nature%20dialoges%20%28new%20york%202004),%2011">“Art Nature Dialoges”</a>.</p>
 <p>Zu Beginn des 21. Jahrhunderts wandten sich Politiker und Wissenschaftler dem Problem des Klimawandels zu. 2018 veröffentlicht das IPCC einen Sonderbericht über die globale Erwärmung um 1,5 ° C. Dem Bericht zufolge ist die Begrenzung der Erwärmung auf 1,5 ° C im Rahmen der physikalischen Gesetze technisch möglich. Dies setzt jedoch voraus, dass die globalen Kohlendioxidemissionen bis 2030 um 45% gegenüber 2010 und bis 2050 auf Null gesenkt werden. Beim heutigen Emissionstempo wird die Welt zwischen 2030 und 2052 eine Erwärmung von 1,5 ° C erreichen, und bis 2100 könnte die globale Erwärmung bei <a href="https://library.wmo.int/?lvl=notice_display&amp;id=20691#.Xwr6gWaB1-U">mehr als 3-4 ° C liegen.</a></p>
 <p>„Der Bericht der weltweit führenden Klimatologen ist ein ohrenbetäubender Alarm für die Welt. Er bestätigte, dass sich das Klima schneller ändert als wir und wir wenig Zeit haben “, <a href="https://library.wmo.int/?lvl=notice_display&amp;id=20691#.Xwr6gWaB1-U">sagte UN-Generalsekretär Antoniu Guterres.</a></p>
@@ -223,10 +227,11 @@
         </author>
         <link href="https://nikagrigorian.com/zu-community-basierter-kunst.html"/>
         <id>https://nikagrigorian.com/zu-community-basierter-kunst.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/4/FB68ED3F-4B42-4B8D-8594-7A9FCCAB9AD6_1_201_a.jpeg" medium="image" />
             <category term="project"/>
             <category term="discussion"/>
 
-        <updated>2023-05-07T20:09:13+02:00</updated>
+        <updated>2022-08-30T14:58:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/4/FB68ED3F-4B42-4B8D-8594-7A9FCCAB9AD6_1_201_a.jpeg" alt="" />
@@ -235,7 +240,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikagrigorian.com/media/posts/4/FB68ED3F-4B42-4B8D-8594-7A9FCCAB9AD6_1_201_a.jpeg" alt="" />
+                    <p><img src="https://nikagrigorian.com/media/posts/4/FB68ED3F-4B42-4B8D-8594-7A9FCCAB9AD6_1_201_a.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>In the series of events “zu Community basierter Kunst”, moderators talk to artists who develop practices outside of institutional spaces, which thereby act as community-building.</p>
 <p>The event series is organised by the curatorial working group: Nika Grigorian, Agnieszka Kilian and Marina Naprushkina.</p>
 <p><strong>How to grow the community? Zu Community basierter Kunst, Teil #1<br></strong>26 February 2022 <br><br></p>
@@ -276,10 +281,11 @@
         </author>
         <link href="https://nikagrigorian.com/this-is-my-new-post.html"/>
         <id>https://nikagrigorian.com/this-is-my-new-post.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/1/2-2.jpg" medium="image" />
             <category term="research"/>
             <category term="project"/>
 
-        <updated>2023-05-07T20:02:28+02:00</updated>
+        <updated>2022-08-11T16:00:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/1/2-2.jpg" alt="" />
@@ -288,7 +294,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikagrigorian.com/media/posts/1/2-2.jpg" alt="" />
+                    <p><img src="https://nikagrigorian.com/media/posts/1/2-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">The research focuses on the Komi community of Kokvitskaya Gora. I set myself the goal of finding out why an indigenous Komi group with 14 settlements is threatened with extinction.</span></p>
 <div class="page" title="Page 5">
 <div class="section">
@@ -314,10 +320,11 @@
         </author>
         <link href="https://nikagrigorian.com/kokvitskaya-gora-the-process-of-standing-for-community-rights.html"/>
         <id>https://nikagrigorian.com/kokvitskaya-gora-the-process-of-standing-for-community-rights.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/2/30.JPG" medium="image" />
             <category term="project"/>
             <category term="book"/>
 
-        <updated>2023-05-07T20:02:10+02:00</updated>
+        <updated>2022-08-10T14:42:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/2/30.JPG" alt="" />
@@ -326,7 +333,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikagrigorian.com/media/posts/2/30.JPG" alt="" />
+                    <p><img src="https://nikagrigorian.com/media/posts/2/30.JPG" class="type:primaryImage" alt="" /></p>
                 <div class="page" title="Page 6">
 <div class="section">
 <div class="layoutArea">
@@ -380,10 +387,11 @@
         </author>
         <link href="https://nikagrigorian.com/rundgang-preview.html"/>
         <id>https://nikagrigorian.com/rundgang-preview.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/6/060821-HdS_IfKiK_-2834-1024x683-2.jpeg" medium="image" />
             <category term="project"/>
             <category term="exhibition"/>
 
-        <updated>2023-05-07T20:01:23+02:00</updated>
+        <updated>2022-08-04T09:36:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/6/060821-HdS_IfKiK_-2834-1024x683-2.jpeg" alt="" />
@@ -392,7 +400,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikagrigorian.com/media/posts/6/060821-HdS_IfKiK_-2834-1024x683-2.jpeg" alt="" />
+                    <p><img src="https://nikagrigorian.com/media/posts/6/060821-HdS_IfKiK_-2834-1024x683-2.jpeg" class="type:primaryImage" alt="" /></p>
                 <div class="page" title="Page 2">
 <div class="section">
 <div class="layoutArea">
@@ -432,10 +440,11 @@
         </author>
         <link href="https://nikagrigorian.com/sensing-the-city-sense-of-the-city.html"/>
         <id>https://nikagrigorian.com/sensing-the-city-sense-of-the-city.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/3/3BA5C956-DBB9-4555-94B3-FE15280F5027_1_201_a.jpeg" medium="image" />
             <category term="project"/>
             <category term="exhibition"/>
 
-        <updated>2023-05-07T20:08:08+02:00</updated>
+        <updated>2022-08-03T16:13:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/3/3BA5C956-DBB9-4555-94B3-FE15280F5027_1_201_a.jpeg" alt="" />
@@ -444,7 +453,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikagrigorian.com/media/posts/3/3BA5C956-DBB9-4555-94B3-FE15280F5027_1_201_a.jpeg" alt="" />
+                    <p><img src="https://nikagrigorian.com/media/posts/3/3BA5C956-DBB9-4555-94B3-FE15280F5027_1_201_a.jpeg" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">The exhibition project </span><i><span style="font-weight: 400;">sensing the city - sense of the city</span></i><span style="font-weight: 400;"> aims to explore individual sensations in urban spaces. Taking place in </span><strong>Berlin and Lisbon</strong><span style="font-weight: 400;"> simultaneously, this cross-disciplinary platform for urban art hosted works in diverse shapes and different media and was accompanied by a broad range of workshops and other participatory formats.</span></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
 <figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/3/gallery/_3251634.JPG" data-size="4032x3024"><img loading="lazy" src="https://nikagrigorian.com/media/posts/3/gallery/_3251634-thumbnail.JPG" alt="" width="768" height="576"></a>
@@ -496,10 +505,11 @@
         </author>
         <link href="https://nikagrigorian.com/eigenart.html"/>
         <id>https://nikagrigorian.com/eigenart.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/7/20b.jpg" medium="image" />
             <category term="project"/>
             <category term="magazine"/>
 
-        <updated>2023-05-07T19:59:59+02:00</updated>
+        <updated>2022-08-02T09:50:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/7/20b.jpg" alt="" />
@@ -508,7 +518,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikagrigorian.com/media/posts/7/20b.jpg" alt="" />
+                    <p><img src="https://nikagrigorian.com/media/posts/7/20b.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="page" title="Page 3">
 <div class="section">
 <div class="layoutArea">
