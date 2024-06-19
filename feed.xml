@@ -3,7 +3,7 @@
     <title>Nika Grigorian</title>
     <link href="https://nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://nikagrigorian.com" />
-    <updated>2024-06-19T14:33:53+03:00</updated>
+    <updated>2024-06-19T14:34:55+03:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
@@ -17,6 +17,8 @@
         <link href="https://nikagrigorian.com/learning-from-the-cultivation-practices-of-eastern-european-women-in-rural-spaces.html"/>
         <id>https://nikagrigorian.com/learning-from-the-cultivation-practices-of-eastern-european-women-in-rural-spaces.html</id>
         <media:content url="https://nikagrigorian.com/media/posts/13/Screenshot-2024-06-19-at-14.29.54.png" medium="image" />
+            <category term="research"/>
+            <category term="project"/>
 
         <updated>2024-06-19T14:30:32+03:00</updated>
             <summary>
