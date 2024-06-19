@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://nikagrigorian.com/learning-from-the-cultivation-practices-of-eastern-european-women-in-rural-spaces.html",
+            "url": "https://nikagrigorian.com/learning-from-the-cultivation-practices-of-eastern-european-women-in-rural-spaces.html",
+            "title": "Learning from the cultivation practices of Eastern European women in rural spaces",
+            "summary": "The research learns from the rural cultivation practices of Eastern European women&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">The research learns from the rural cultivation practices of Eastern European women through artistic fieldwork and a feminist vision. </span></p>\n<p><span style=\"font-weight: 400;\">It examines the topography of cultivation practices in two regions with a history of socialist collective labour strategies: Komi Republic (Russia) and Armenia. The study is conducted with autobiographical artistic methods, linking the regions through a history of personal migration.</span></p>",
+            "image": "https://nikagrigorian.com/media/posts/13/Screenshot-2024-06-19-at-14.29.54.png",
+            "author": {
+                "name": "Nika Grigorian"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-19T14:30:32+03:00",
+            "date_modified": "2024-06-19T14:30:32+03:00"
+        },
+        {
             "id": "https://nikagrigorian.com/co-cultivating-experimentations.html",
             "url": "https://nikagrigorian.com/co-cultivating-experimentations.html",
             "title": "Co-cultivating Experimentations",
@@ -159,23 +174,6 @@
             ],
             "date_published": "2022-08-03T17:13:00+03:00",
             "date_modified": "2024-06-19T14:23:18+03:00"
-        },
-        {
-            "id": "https://nikagrigorian.com/eigenart.html",
-            "url": "https://nikagrigorian.com/eigenart.html",
-            "title": "eigenart",
-            "summary": "2020 - 2021 / Group project / Magazine The wis project focused&hellip;",
-            "content_html": "<div class=\"page\" title=\"Page 3\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p class=\"align-center\">2020 - 2021 / Group project / Magazine</p>\n<div class=\"page\" title=\"Page 3\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The wis project focused on the development of the University of the Arts' student magazine \"eigenart\".<br><br>Grigorian worked as editor-in-chief and director on the digital and printed version. With the digitalization of the media, Grigorian created a community platform to open up artistic discussion and take it beyond the academic framework. The new formats allowed for the presentation of artistic media such as video, audio, and media art, among others. Today, as part of the University of the Arts, the magazine continues to evolve both in print and digitally: <a href=\"http://www.eigenart-magazine.de\">www.eigenart-magazine.de</a></p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://nikagrigorian.com/media/posts/7/gallery/titelblatt.jpg\" data-size=\"3500x2300\"><img loading=\"lazy\" src=\"https://nikagrigorian.com/media/posts/7/gallery/titelblatt-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"505\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikagrigorian.com/media/posts/7/gallery/21b.jpg\" data-size=\"3500x2300\"><img loading=\"lazy\" src=\"https://nikagrigorian.com/media/posts/7/gallery/21b-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"505\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikagrigorian.com/media/posts/7/gallery/1b.jpg\" data-size=\"3500x2300\"><img loading=\"lazy\" src=\"https://nikagrigorian.com/media/posts/7/gallery/1b-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"505\"></a></figure>\n</div></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
-            "image": "https://nikagrigorian.com/media/posts/7/20b.jpg",
-            "author": {
-                "name": "Nika Grigorian"
-            },
-            "tags": [
-                   "project",
-                   "magazine"
-            ],
-            "date_published": "2022-08-02T10:50:00+03:00",
-            "date_modified": "2023-05-07T20:59:59+03:00"
         }
     ]
 }
