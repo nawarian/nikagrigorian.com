@@ -3,12 +3,41 @@
     <title>Nika Grigorian</title>
     <link href="https://nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://nikagrigorian.com" />
-    <updated>2024-12-04T12:04:16+01:00</updated>
+    <updated>2025-01-01T14:05:25+02:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
     <id>https://nikagrigorian.com</id>
 
+    <entry>
+        <title>Herbs and Winds</title>
+        <author>
+            <name>Nika Grigorian</name>
+        </author>
+        <link href="https://nikagrigorian.com/herbs-and-winds.html"/>
+        <id>https://nikagrigorian.com/herbs-and-winds.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/16/DSC00592.JPG" medium="image" />
+            <category term="project"/>
+
+        <updated>2025-01-01T14:04:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikagrigorian.com/media/posts/16/DSC00592.JPG" alt="" />
+                    Murals on five windows, school at the village Prokopyevka, Komi Republic, 2024&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nikagrigorian.com/media/posts/16/DSC00592.JPG" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">Murals on five windows, school at the village <br>Prokopyevka, Komi Republic, 2024</p>
+<p>The work "Herbs and Winds" is about the interaction between wild herbs and the ancestral signs of the Komi people - 'pas'. Wild herbs used in Komi traditional medicine and cookery embody knowledge and practices passed down through generations in rural communities. <br><br>The signs are integrated into the plant motifs, creating a multi-layered composition of new forms of fictional wild herbs. The images reflect on how non-human bodies and the memories of place interact to form new meanings and narratives.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/16/gallery/DSC00609.JPG" data-size="6000x4000"><img loading="lazy" src="https://nikagrigorian.com/media/posts/16/gallery/DSC00609-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/16/gallery/DSC00601.JPG" data-size="6000x4000"><img loading="lazy" src="https://nikagrigorian.com/media/posts/16/gallery/DSC00601-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Navigating Collective Landscapes</title>
         <author>
@@ -19,7 +48,7 @@
         <media:content url="https://nikagrigorian.com/media/posts/15/2.jpg" medium="image" />
             <category term="teaching"/>
 
-        <updated>2024-12-04T11:58:19+01:00</updated>
+        <updated>2024-12-04T12:58:19+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/15/2.jpg" alt="" />
@@ -58,7 +87,7 @@
         <media:content url="https://nikagrigorian.com/media/posts/14/IMG_7339.jpeg" medium="image" />
             <category term="mediation"/>
 
-        <updated>2024-07-31T15:54:19+02:00</updated>
+        <updated>2024-07-31T16:54:19+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/14/IMG_7339.jpeg" alt="" />
@@ -91,7 +120,7 @@
             <category term="research"/>
             <category term="project"/>
 
-        <updated>2024-06-19T13:30:32+02:00</updated>
+        <updated>2024-06-19T14:30:32+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/13/Screenshot-2024-06-19-at-14.29.54.png" alt="" />
@@ -124,7 +153,7 @@
         <media:content url="https://nikagrigorian.com/media/posts/12/IMG_6459.jpeg" medium="image" />
             <category term="text"/>
 
-        <updated>2024-02-14T15:36:41+01:00</updated>
+        <updated>2024-02-14T16:36:41+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/12/IMG_6459.jpeg" alt="" />
@@ -177,7 +206,7 @@
             <category term="project"/>
             <category term="exhibition"/>
 
-        <updated>2023-01-15T18:14:48+01:00</updated>
+        <updated>2023-01-15T19:14:48+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/11/featured-image.jpg" alt="" />
@@ -238,7 +267,7 @@
         <media:content url="https://nikagrigorian.com/media/posts/8/goncharova.jpeg" medium="image" />
             <category term="text"/>
 
-        <updated>2022-09-12T19:57:00+02:00</updated>
+        <updated>2022-09-12T20:57:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/8/goncharova.jpeg" alt="" />
@@ -307,7 +336,7 @@
         <media:content url="https://nikagrigorian.com/media/posts/9/UdKForFuture_sh-0097-2048x1360.jpeg" medium="image" />
             <category term="text"/>
 
-        <updated>2022-09-11T20:19:55+02:00</updated>
+        <updated>2022-09-11T21:19:55+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/9/UdKForFuture_sh-0097-2048x1360.jpeg" alt="" />
@@ -363,7 +392,7 @@
             <category term="project"/>
             <category term="mediation"/>
 
-        <updated>2022-08-30T14:58:00+02:00</updated>
+        <updated>2022-08-30T15:58:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/4/FB68ED3F-4B42-4B8D-8594-7A9FCCAB9AD6_1_201_a.jpeg" alt="" />
@@ -417,7 +446,7 @@
             <category term="research"/>
             <category term="project"/>
 
-        <updated>2022-08-11T16:00:00+02:00</updated>
+        <updated>2022-08-11T17:00:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikagrigorian.com/media/posts/1/2-2.jpg" alt="" />
@@ -442,73 +471,6 @@
 <figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/1/gallery/IMG_20200906_135432.jpg" data-size="4224x5632"><img loading="lazy" src="https://nikagrigorian.com/media/posts/1/gallery/IMG_20200906_135432-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
 <figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/1/gallery/IMG_20200719_184108.jpg" data-size="5632x4224"><img loading="lazy" src="https://nikagrigorian.com/media/posts/1/gallery/IMG_20200719_184108-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title> A Manifesto from the community of Kokvitskaya Gora</title>
-        <author>
-            <name>Nika Grigorian</name>
-        </author>
-        <link href="https://nikagrigorian.com/kokvitskaya-gora-the-process-of-standing-for-community-rights.html"/>
-        <id>https://nikagrigorian.com/kokvitskaya-gora-the-process-of-standing-for-community-rights.html</id>
-        <media:content url="https://nikagrigorian.com/media/posts/2/30.JPG" medium="image" />
-            <category term="publication"/>
-            <category term="project"/>
-
-        <updated>2022-08-10T14:42:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nikagrigorian.com/media/posts/2/30.JPG" alt="" />
-                    2020 / Community projekts / Art book A proposed public statement calling&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://nikagrigorian.com/media/posts/2/30.JPG" class="type:primaryImage" alt="" /></p>
-                <div class="page" title="Page 6">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<div class="page" title="Page 6">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p><em>2020 / Community projekts / Art book</em></p>
-</div>
-</div>
-</div>
-</div>
-<p>A proposed public statement calling for a better <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">quality of life for the people from this community.</span></p>
-<div class="page" title="Page 6">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>The manifesto proposal emerged from my research "Kokvitskaya Gora - the process of standing for community rights". The work focuses on the Komi community of Kokvitskaya Gora.</p>
-<p>After the field research of the place, I decided to offer the residents a manifesto to make a public statement demanding improvements in the quality of life for the people of Kokvitskaya Gora. By choosing this artistic form, I hope to perceive the text not as the physical result of my scientific activity, but as a process.</p>
-<p>The book is a collaborative work of local residents and artists.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/image-20-07-21-10-14.jpg" data-size="4032x3024"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/image-20-07-21-10-14-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/image-20-07-21-10-14-1.jpg" data-size="4032x3024"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/image-20-07-21-10-14-1-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/image-20-07-21-10-14-3.jpg" data-size="4032x3024"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/image-20-07-21-10-14-3-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/image-20-07-21-10-15.jpg" data-size="4032x3024"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/image-20-07-21-10-15-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-</div></div>
-<h1> Manifesto</h1>
-<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/31.JPG" data-size="5736x3576"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/31-thumbnail.JPG" alt="" width="768" height="479"></a></figure>
-<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/32.JPG" data-size="5648x3952"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/32-thumbnail.JPG" alt="" width="768" height="537"></a></figure>
-<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/6.JPG" data-size="6016x4000"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/6-thumbnail.JPG" alt="" width="768" height="511"></a></figure>
-<figure class="gallery__item"><a href="https://nikagrigorian.com/media/posts/2/gallery/10.JPG" data-size="6016x4000"><img loading="lazy" src="https://nikagrigorian.com/media/posts/2/gallery/10-thumbnail.JPG" alt="" width="768" height="511"></a></figure>
-</div></div>
-<p> </p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
             ]]>
         </content>
     </entry>
