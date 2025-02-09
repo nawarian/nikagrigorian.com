@@ -22,8 +22,8 @@
             "tags": [
                    "project"
             ],
-            "date_published": "2025-01-01T14:04:15+02:00",
-            "date_modified": "2025-01-01T14:05:25+02:00"
+            "date_published": "2025-01-01T13:04:15+01:00",
+            "date_modified": "2025-01-01T13:05:25+01:00"
         },
         {
             "id": "https://nikagrigorian.com/navigating-collective-landscapes.html",
@@ -38,8 +38,8 @@
             "tags": [
                    "teaching"
             ],
-            "date_published": "2024-12-04T12:58:19+02:00",
-            "date_modified": "2024-12-04T13:04:16+02:00"
+            "date_published": "2024-12-04T11:58:19+01:00",
+            "date_modified": "2024-12-04T12:04:16+01:00"
         },
         {
             "id": "https://nikagrigorian.com/soil-practices.html",
@@ -54,8 +54,8 @@
             "tags": [
                    "mediation"
             ],
-            "date_published": "2024-07-31T16:54:19+03:00",
-            "date_modified": "2024-12-04T12:50:06+02:00"
+            "date_published": "2024-07-31T15:54:19+02:00",
+            "date_modified": "2024-12-04T11:50:06+01:00"
         },
         {
             "id": "https://nikagrigorian.com/learning-from-the-cultivation-practices-of-eastern-european-women-in-rural-spaces.html",
@@ -71,8 +71,8 @@
                    "research",
                    "project"
             ],
-            "date_published": "2024-06-19T14:30:32+03:00",
-            "date_modified": "2024-07-22T14:18:18+03:00"
+            "date_published": "2024-06-19T13:30:32+02:00",
+            "date_modified": "2024-07-22T13:18:18+02:00"
         },
         {
             "id": "https://nikagrigorian.com/co-cultivating-experimentations.html",
@@ -87,8 +87,8 @@
             "tags": [
                    "text"
             ],
-            "date_published": "2024-02-14T16:36:41+02:00",
-            "date_modified": "2024-07-22T14:41:24+03:00"
+            "date_published": "2024-02-14T15:36:41+01:00",
+            "date_modified": "2024-07-22T13:41:24+02:00"
         },
         {
             "id": "https://nikagrigorian.com/kartofel.html",
@@ -106,8 +106,8 @@
                    "project",
                    "exhibition"
             ],
-            "date_published": "2023-01-15T19:14:48+02:00",
-            "date_modified": "2024-08-01T15:29:45+03:00"
+            "date_published": "2023-01-15T18:14:48+01:00",
+            "date_modified": "2024-08-01T14:29:45+02:00"
         },
         {
             "id": "https://nikagrigorian.com/test-blog-post.html",
@@ -122,8 +122,8 @@
             "tags": [
                    "text"
             ],
-            "date_published": "2022-09-12T20:57:00+03:00",
-            "date_modified": "2022-09-12T20:57:00+03:00"
+            "date_published": "2022-09-12T19:57:00+02:00",
+            "date_modified": "2022-09-12T19:57:00+02:00"
         },
         {
             "id": "https://nikagrigorian.com/was-die-kunst-zum-klimawandel-zu-sagen-hat.html",
@@ -138,8 +138,8 @@
             "tags": [
                    "text"
             ],
-            "date_published": "2022-09-11T21:19:55+03:00",
-            "date_modified": "2022-09-11T21:20:44+03:00"
+            "date_published": "2022-09-11T20:19:55+02:00",
+            "date_modified": "2022-09-11T20:20:44+02:00"
         },
         {
             "id": "https://nikagrigorian.com/zu-community-basierter-kunst.html",
@@ -155,8 +155,8 @@
                    "project",
                    "mediation"
             ],
-            "date_published": "2022-08-30T15:58:00+03:00",
-            "date_modified": "2023-05-07T21:09:13+03:00"
+            "date_published": "2022-08-30T14:58:00+02:00",
+            "date_modified": "2023-05-07T20:09:13+02:00"
         },
         {
             "id": "https://nikagrigorian.com/this-is-my-new-post.html",
@@ -172,8 +172,8 @@
                    "research",
                    "project"
             ],
-            "date_published": "2022-08-11T17:00:00+03:00",
-            "date_modified": "2023-05-07T21:02:28+03:00"
+            "date_published": "2022-08-11T16:00:00+02:00",
+            "date_modified": "2023-05-07T20:02:28+02:00"
         }
     ]
 }
