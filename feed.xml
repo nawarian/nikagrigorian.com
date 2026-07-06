@@ -3,7 +3,7 @@
     <title>Nika Grigorian</title>
     <link href="https://nikagrigorian.com/feed.xml" rel="self" />
     <link href="https://nikagrigorian.com" />
-    <updated>2026-07-06T10:45:44-03:00</updated>
+    <updated>2026-07-06T17:16:35-03:00</updated>
     <author>
         <name>Nika Grigorian</name>
     </author>
@@ -16,15 +16,21 @@
         </author>
         <link href="https://nikagrigorian.com/llllll.html"/>
         <id>https://nikagrigorian.com/llllll.html</id>
+        <media:content url="https://nikagrigorian.com/media/posts/25/Kochgeschichten_DT4-19.jpg" medium="image" />
+            <category term="publishing"/>
+            <category term="project"/>
+            <category term="mediation"/>
 
         <updated>2026-07-06T10:34:01-03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://nikagrigorian.com/media/posts/25/Kochgeschichten_DT4-19.jpg" alt="" />
                     Community cooking workshops / Zine / Berlin, 2025 Kochgeschichten (German for "Cooking&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://nikagrigorian.com/media/posts/25/Kochgeschichten_DT4-19.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><em>Community cooking workshops / Zine / Berlin, 2025</em></p>
 <p><em>Kochgeschichten</em> (German for "Cooking Stories") is a series of community cooking workshops with children in Berlin, culminating in a collaboratively produced riso-printed zine. The project uses cooking — the shared act of preparing, tasting, and telling stories around food — as a space for cultural exchange, knowledge-sharing, and collective care across displacement.</p>
 <p>Over several sessions, participants gathered in a kitchen in Neukölln to cook dishes from memory: recipes carried across borders, adapted to new ingredients, infused with the tastes of home. Each workshop became a site of embodied transmission — hands kneading dough, adjusting salt, tasting and remembering — where culinary knowledge passed between generations, geographies, and languages.</p>
